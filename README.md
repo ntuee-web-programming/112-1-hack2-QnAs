@@ -7,3 +7,4 @@ Any question about 112-1 Hackathon #1, please raise an issue here!
 ### Google meet links:
 * [謹譯](https://meet.google.com/rhg-wxvc-ame)
 * [慕德](https://meet.google.com/ush-voki-ncq)
+* [有齊](https://meet.google.com/iui-gnga-dgh)
