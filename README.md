@@ -1,8 +1,9 @@
 # 112-1-hack1-QnAs
-Any questions about 112-1 Hackathon #1, please raise an issue here!
+Any questions about 112-1 Hackathon #2, please raise an issue here!
 
 ### Resources:
-* [preREADME](https://www.notion.so/ric2k1/Hack1-preREADME-e7b7186f755d46cc953c302d300e0a97)
+* [Sign-In Form](https://docs.google.com/forms/d/e/1FAIpQLSeDn2LQQueY1sInZIpYdqfpjrVNxM56pfJ8EqWUBFUt9kAzQw/viewform)
+* [違規舉發](https://docs.google.com/forms/d/e/1FAIpQLSeTf8uknwfp4n8mstAxXBeK2ZQk4TvX1cBEbWYE-_bL-UPpwQ/viewform)
 
 ### Google meet links:
 * [寬証](https://meet.google.com/bbb-uyfs-cxf)
