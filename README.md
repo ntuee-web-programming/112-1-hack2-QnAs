@@ -1,4 +1,4 @@
-# 112-1-hack1-QnAs
+# 112-1-hack2-QnAs
 Any questions about 112-1 Hackathon #2, please raise an issue here!
 
 ### Resources:
