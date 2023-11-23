@@ -6,7 +6,7 @@ Any questions about 112-1 Hackathon #2, please raise an issue here!
 * [違規舉發](https://docs.google.com/forms/d/e/1FAIpQLSeTf8uknwfp4n8mstAxXBeK2ZQk4TvX1cBEbWYE-_bL-UPpwQ/viewform)
 
 ### Google meet links:
-* [寬証](https://meet.google.com/bbb-uyfs-cxf)
+* [寬証](meet.google.com/nqb-kkes-wpv)
 * [冠柏](https://meet.google.com/hwz-ekrp-tfu)
 * [加旭](https://meet.google.com/bdy-azii-zag)
 * [冠銘](https://meet.google.com/xuj-obrh-mhm)
